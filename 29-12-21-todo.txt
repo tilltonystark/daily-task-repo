@@ -4,5 +4,5 @@
 3. Express - Exercise
 4. JQuery - Simon Game
 5. React
-[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D6. Udacity UI/UX Course
+6. Udacity UI/UX Course
 7. Famstar Post
