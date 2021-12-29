@@ -1,8 +1,8 @@
 # Work To Do
-1. Git & GitHub
-2. Arrays Revision & Exercise
-3. Express - Exercise
-4. JQuery - Simon Game
-5. React
-[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D6. Udacity UI/UX Course
-7. Famstar Post
+1. Git & GitHub ( 09:00 )
+2. Arrays Revision & Exercise - In between
+3. Express - Exercise ( 09:30 )
+4. JQuery - Simon Game (
+5. React ( 10:00-2:00)
+6. Udacity UI/UX Course - Cancelled
+7. Famstar Post - Cancelled
